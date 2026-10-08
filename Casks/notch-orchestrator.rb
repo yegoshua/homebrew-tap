@@ -1,6 +1,6 @@
 cask "notch-orchestrator" do
-  version "0.2.0"
-  sha256 "de591c75e281e4c081dd174efd78457c529f1f97e1e311f1e21a370e35da59aa"
+  version "0.3.0"
+  sha256 "bba8d10b02cc31d38c14524c1e002b2a8481e39865b2edd90a7f7e4b255ac25a"
 
   url "https://github.com/yegoshua/notch-orchestrator/releases/download/v#{version}/NotchOrchestrator.zip"
   name "Notch Orchestrator"
